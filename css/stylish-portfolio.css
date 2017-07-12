@@ -311,3 +311,23 @@ footer {
   bottom: 5px;
   right: 5px;
 }
+@media only screen and (max-width: 750px) {
+  .header {
+    height: 84%;
+  }
+  .callout {
+    height: 15%;
+  }
+  .callout2 {
+    height: 15%;
+  }
+  .callout3 {
+    height: 30%;
+  }
+  .callout4 {
+    height: 30%;
+  }
+  .callout5 {
+    height: 30%;
+  }
+}
