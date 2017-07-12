@@ -26,18 +26,18 @@ body {
 .btn-dark {
     border-radius: 0;
     color: #fff;
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(255,133,220,1);
 }
 .btn-pink {
     border-radius: 0;
     color: #fff;
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(255,133,220,1);
 }
 
 .btn-pink:hover {
     border-radius: 0;
     color: #fff;
-    background-color: rgba(255,133,220,1);
+    background-color: rgba(255, 162, 133, 1);
 }
 
 .btn-dark:hover,
@@ -76,7 +76,7 @@ hr.small {
     height: 100%;
     transform: translateX(250px);
     overflow-y: auto;
-    background: #6B92AF;
+    background: rgba(255, 162, 133, 1);
     -webkit-transition: all 0.4s ease 0s;
     -moz-transition: all 0.4s ease 0s;
     -ms-transition: all 0.4s ease 0s;
@@ -229,6 +229,18 @@ hr.small {
     height: 200px;
     color: #fff;
     background: url(../img/aboutedit2.JPG) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.callout5 {
+    display: table;
+    margin: auto;
+    width: 90%;
+    height: 250px;
+    color: #fff;
+    background: url(../img/IMG_1694.png) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
