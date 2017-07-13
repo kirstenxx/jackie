@@ -313,7 +313,7 @@ footer {
 }
 @media only screen and (max-width: 750px) {
   .header {
-    height: 90%;
+    height: 96%;
   }
   .callout {
     height: 15%;
