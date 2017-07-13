@@ -37,7 +37,7 @@ body {
 .btn-pink:hover {
     border-radius: 0;
     color: #fff;
-    background-color: rgba(255, 162, 133, 1);
+    background-color: rgba(72, 198, 238, 1);
 }
 
 .btn-dark:hover,
@@ -76,7 +76,7 @@ hr.small {
     height: 100%;
     transform: translateX(250px);
     overflow-y: auto;
-    background: rgba(255, 162, 133, 1);
+    background: #70D2F3;
     -webkit-transition: all 0.4s ease 0s;
     -moz-transition: all 0.4s ease 0s;
     -ms-transition: all 0.4s ease 0s;
@@ -313,7 +313,7 @@ footer {
 }
 @media only screen and (max-width: 750px) {
   .header {
-    height: 84%;
+    height: 90%;
   }
   .callout {
     height: 15%;
@@ -322,10 +322,10 @@ footer {
     height: 15%;
   }
   .callout3 {
-    height: 30%;
+    height: 23%;
   }
   .callout4 {
-    height: 30%;
+    height: 21%;
   }
   .callout5 {
     height: 30%;
